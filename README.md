@@ -1,5 +1,3 @@
-# hotel_cancellation
+# Data Mining Project : Hotel Cancellation Prediction
 
 Business Analytics course project
-
-Data Mining -- hotel cancellation prediction
